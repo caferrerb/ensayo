@@ -2,20 +2,26 @@ package test2;
 
 public class PErsona {
 
-public PErsona(int a) {
+	int a;
+
+	public PErsona() {
 		a++;
 	}
 
-	public PErsona(int a, int b,int c) {
-		b=a;
-		c=a+b;
-		b=1;
+	public PErsona(int a, int b, int c) {
+		b = a;
+		c = a + b;
+		b = 1;
 	}
-	
-	
-	
-	public void metodo(int c){
-		
+
+	public int getA()
+
+	{
+		return a;
+	}
+
+	public void metodo(int c) {
+
 	}
 
 }
