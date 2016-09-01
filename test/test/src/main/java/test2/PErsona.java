@@ -6,7 +6,7 @@ public PErsona(int a) {
 		a++;
 	}
 	public PErsona(int a, int b) {
-		// TODO Auto-generated constructor stub
+		b=a;
 	}
 	
 	public void metodo(int c){
