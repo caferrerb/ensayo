@@ -10,6 +10,7 @@ public PErsona(int a) {
 		c=a+b;
 	}
 	
+	
 	public void metodo(int c){
 		
 	}
