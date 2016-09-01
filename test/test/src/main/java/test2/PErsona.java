@@ -8,6 +8,7 @@ public PErsona(int a) {
 	public PErsona(int a, int b,int c) {
 		b=a;
 		c=a+b;
+		b=1;
 	}
 	
 	
