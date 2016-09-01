@@ -5,6 +5,12 @@ public class PErsona {
 public PErsona(int a) {
 		a++;
 	}
+
+	public PErsona(int a, int b,int c) {
+		b=a;
+		c=a+b;
+		b=1;
+	}
 	
 	
 	
