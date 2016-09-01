@@ -4,7 +4,7 @@ public class PErsona {
 
 	int a;
 
-	public PErsona() {
+	public PErsona(int a) {
 		a++;
 	}
 
